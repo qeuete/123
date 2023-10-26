@@ -1,0 +1,7 @@
+D:\инфа\скорогудаева\тест\тест\obj\Debug\тест.csproj.AssemblyReference.cache
+D:\инфа\скорогудаева\тест\тест\obj\Debug\тест.csproj.CoreCompileInputs.cache
+D:\инфа\скорогудаева\тест\тест\bin\Debug\тест.exe.config
+D:\инфа\скорогудаева\тест\тест\bin\Debug\тест.exe
+D:\инфа\скорогудаева\тест\тест\bin\Debug\тест.pdb
+D:\инфа\скорогудаева\тест\тест\obj\Debug\тест.exe
+D:\инфа\скорогудаева\тест\тест\obj\Debug\тест.pdb
